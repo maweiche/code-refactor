@@ -38,5 +38,5 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 * Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Jerome, Manuel, Danny, W3Schools, and Google (ofcourse)
+* Jerome, Manuel, Daniel, Cheng, W3Schools, and Google
 
