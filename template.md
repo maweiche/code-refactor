@@ -13,9 +13,7 @@ What things you need to install the software and how to install them.
 ```
 
 ### Screenshot
-
-![image](code-refactor/assets/images/livescreenshot.png)
-
+![](code-refactor/livescreenshot.png)
 
 ## Built With
 
