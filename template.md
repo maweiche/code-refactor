@@ -1,52 +1,35 @@
 # Project Title
+Code-Refactor
 
-One paragraph of project description goes here.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Goal of project 'code-refactor' is to audit and edit the Horiseon landing page for accesbility standards and semantic HTML elements.
 
 ### Prerequisites
 
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+* Internet Browser
+* IDE (for viewing/editing of html and css)
 ```
 
-### Installing
+### Screenshot
 
-A step by step series of examples that tell you how to get a development environment running.
-
-Say what the step will be:
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+![image](code-refactor/assets/images/livescreenshot.png)
 
 
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://maweiche.github.io/code-refactor/)
 
 
 ## Authors
 
-* **YOUR NAME** 
+* Matthew Weichel
 
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/)
@@ -61,5 +44,5 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 * Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Jerome, Manuel, Danny, W3Schools, and Google (ofcourse)
+
